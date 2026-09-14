@@ -4,6 +4,8 @@ A payment gateway module for accepting crypto payments via [Heleket](https://hel
 
 Supports BTC, ETH, USDT (TRC20/ERC20/BEP20), TON, LTC, BNB, TRX and others — the available currencies are defined by your Heleket merchant cabinet settings.
 
+> Running WHMCS 8? Use [whmcs8-heleket-gateway](https://github.com/pidPipe/whmcs8-heleket-gateway) instead.
+
 ---
 
 ## Features
