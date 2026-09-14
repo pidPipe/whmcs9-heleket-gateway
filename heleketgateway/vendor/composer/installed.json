@@ -1,0 +1,43 @@
+{
+    "packages": [
+        {
+            "name": "heleket/api-php-sdk",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/heleket-plugin/api-php-sdk.git",
+                "reference": "3006a0a10b4c78f6db0d81b6fc5f564d5f674a30"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/heleket-plugin/api-php-sdk/zipball/3006a0a10b4c78f6db0d81b6fc5f564d5f674a30",
+                "reference": "3006a0a10b4c78f6db0d81b6fc5f564d5f674a30",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "time": "2025-01-28T11:07:10+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Heleket\\Api\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Heleket api SDK",
+            "support": {
+                "source": "https://github.com/heleket-plugin/api-php-sdk/tree/main"
+            },
+            "install-path": "../heleket/api-php-sdk"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

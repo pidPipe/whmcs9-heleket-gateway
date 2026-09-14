@@ -1,0 +1,17 @@
+{
+  "name": "heleket/api-php-sdk",
+  "description": "Heleket api SDK",
+  "type": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=8.2"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "Heleket\\Api\\": "src/"
+    }
+  }
+}

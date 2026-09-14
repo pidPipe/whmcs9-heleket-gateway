@@ -1,0 +1,27 @@
+{
+  "schema": "1.1",
+  "type": "whmcs-gateways",
+  "name": "heleketgateway",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "Heleket",
+    "tagline": "Start accepting crypto payments via heleket",
+    "long": "Receive crypto payments on your online store. Built for WHMCS 9.x (PHP 8.2+)."
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https://dash.heleket.com/",
+    "support_url": "https://dash.heleket.com/",
+    "docs_url": "https://dash.heleket.com/"
+  },
+  "authors": [
+    {
+      "name": "Heleket.com",
+      "homepage": "https://dash.heleket.com/"
+    }
+  ],
+  "version": "9.0.0"
+}

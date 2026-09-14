@@ -1,0 +1,5 @@
+{
+    "require": {
+        "heleket/api-php-sdk": "dev-main"
+    }
+}
